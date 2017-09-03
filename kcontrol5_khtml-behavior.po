@@ -1,0 +1,216 @@
+# Copyright (C) 2017 Free Software Foundation, Inc.
+#
+# Funda Wang <fundawang@linux.net.cn>, 2004.
+# yanteng(linuxren.org)<102336919@qq.com> <102336919@qq.com>, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: kde doc\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2016-11-13 17:57+0000\n"
+"PO-Revision-Date: 2017-07-31 10:12+0000\n"
+"Last-Translator: yanteng(linuxren.org)<102336919@qq.com> <102336919@qq.com>\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#. Tag: title
+#: index.docbook:10 index.docbook:28
+#, no-c-format
+msgid "Web Browsing"
+msgstr "网页浏览"
+
+#. Tag: author
+#: index.docbook:12
+#, no-c-format
+msgid "&Krishna.Tateneni; &Krishna.Tateneni.mail;"
+msgstr "Krishna.Tateneni; （&K）Krishna.Tateneni.mail;（&K）"
+
+#. Tag: trans_comment
+#: index.docbook:13
+#, no-c-format
+msgid "ROLES_OF_TRANSLATORS"
+msgstr ""
+"<authorgroup><author><firstname>teng</firstname> <surname>yan</surname></"
+"author></authorgroup>"
+
+#. Tag: date
+#: index.docbook:16
+#, no-c-format
+msgid "2016-11-08"
+msgstr "2016-11-08"
+
+#. Tag: releaseinfo
+#: index.docbook:17
+#, no-c-format
+msgid "Applications 16.12"
+msgstr "Applications 16.12"
+
+#. Tag: keyword
+#: index.docbook:20
+#, no-c-format
+msgid "<keyword>KDE</keyword>"
+msgstr "<keyword>KDE</keyword>"
+
+#. Tag: keyword
+#: index.docbook:21
+#, no-c-format
+msgid "Systemsettings"
+msgstr "系统设置"
+
+#. Tag: keyword
+#: index.docbook:22
+#, no-c-format
+msgid "konqueror"
+msgstr "konqueror"
+
+#. Tag: keyword
+#: index.docbook:23
+#, no-c-format
+msgid "browsing"
+msgstr "浏览"
+
+#. Tag: para
+#: index.docbook:30
+#, no-c-format
+msgid ""
+"The &konqueror; Browser module of &systemsettings; allows you to select "
+"various options for the behavior of &konqueror;, the integrated web browser "
+"of &kde;."
+msgstr "The konqueror;（&k）浏览器的系统设置模块;允许你有选择的使用konqueror;,（&k）kde的集成网页浏览器；（&k）"
+
+#. Tag: para
+#: index.docbook:34
+#, no-c-format
+msgid ""
+"If <guilabel>Ask for name and folder when adding bookmarks</guilabel> is "
+"checked, &konqueror; will allow you to change the title of the bookmark and "
+"choose a folder in which to store it when you add a new bookmark."
+msgstr ""
+"若<guilabel>在添加书签时询问名称和文件夹</guilabel>这是一个检查，konqueror;（&k）将允许您更改书签的标题，并在添加新书签时选"
+"择要存储的文件夹。"
+
+#. Tag: para
+#: index.docbook:39
+#, no-c-format
+msgid ""
+"Enable <guilabel>Show only marked bookmarks in bookmark toolbar</guilabel> "
+"and &konqueror; will show only those bookmarks in the bookmark toolbar which "
+"you have marked to do so in the bookmark editor."
+msgstr ""
+"启用<guilabel>仅在书签工具栏</ guilabel>和konqueror(&k)中显示标记的书签; "
+"将只显示书签工具栏中您在书签编辑器中标记为这样做的那些书签。"
+
+#. Tag: para
+#: index.docbook:43
+#, no-c-format
+msgid ""
+"The next option you can enable on this page is <guilabel>Form Completion</"
+"guilabel>. If you check this box, &konqueror; will try to remember what you "
+"answer to form questions, and will try to fill in forms for you with the "
+"answers you previously used."
+msgstr ""
+"您可以在此页面上启用的下一个选项是<guilabel>完成表单</ guilabel>。 如果你选中这个框，konqueror;(&K) "
+"将尝试记住您输入的内容，以形成记录，并将尝试用您以前使用的内容为您填写表格。"
+
+#. Tag: para
+#: index.docbook:48
+#, no-c-format
+msgid ""
+"You can configure the number of form items &konqueror; remembers with the "
+"spin box labelled <guilabel>Maximum completions</guilabel>"
+msgstr "您可以配置表单项konqueror(&K)的数量; 记住标签为<guilabel>最大完成</ guilabel>的旋转框"
+
+#. Tag: para
+#: index.docbook:52
+#, no-c-format
+msgid ""
+"Of course, anything &konqueror; fills in a form with, you can still edit "
+"before submitting the form!"
+msgstr "当然，任何konqueror;(＆k)都填写一个表单，您还可以在提交表单之前进行编辑！"
+
+#. Tag: para
+#: index.docbook:55
+#, no-c-format
+msgid ""
+"The next option is <guilabel>Change cursor over links</guilabel>. If this "
+"option is selected, the shape of the cursor will change (usually to a hand) "
+"whenever it moves over a hyperlink. This makes it easy to identify links, "
+"especially when they are in the form of images."
+msgstr ""
+"下一个选项是<guilabel>将光标更改为链接</ guilabel>。 如果选择此选项，则只要移动超链接，光标的形状将会更改（通常为手）。 "
+"这使得识别链接变得容易，特别是当它们以图像的形式时。"
+
+#. Tag: para
+#: index.docbook:61
+#, no-c-format
+msgid ""
+"If <guilabel>Middle click opens URL in selection</guilabel> is checked, you "
+"can open the &URL; in the selection by middle clicking on a &konqueror; view."
+msgstr ""
+"如果<guilabel>中键单击打开被选中的的URL（&U） </ guilabel>，则可以打开该URL; "
+"在选项中通过中键点击打开一个konqueror;（&K） 视图。"
+
+#. Tag: para
+#: index.docbook:65
+#, no-c-format
+msgid ""
+"As a convenience feature, if you enable <guilabel>Right click goes back in "
+"history</guilabel>, then clicking an empty area (&ie; not a link) in the "
+"&konqueror; window will act as if you pressed the <guiicon>Back</guiicon> "
+"button on the toolbar."
+msgstr ""
+"作为一个方便的功能，如果您启用<guilabel>右键单击返回历史</ guilabel>"
+"，然后单击konqueror（&k）中的空白区域（＆ie;（&i）不是链接）; 将打开类似您按下工具栏上的<guiicon> 返回 </ guiicon>"
+"按钮的窗口。"
+
+#. Tag: para
+#: index.docbook:70
+#, no-c-format
+msgid ""
+"Enabling <guilabel>Allow automatic delayed reloading/redirecting</guilabel> "
+"allows websites to send you to another page without your interaction. In "
+"many cases, this is a convenience. For example, the website has moved to a "
+"new &URL;. Many webmasters in this situation will put up a page on the old "
+"site, telling you that it has moved and you may like to change your "
+"bookmark, and then automatically move you along to the new website. However, "
+"such features can be confusing, or annoying, when misused, and so you may "
+"wish to disable it."
+msgstr ""
+"启用<guilabel>允许自动延迟重新加载/重定向</ guilabel>允许网站将您发送到另一个页面，而无需您的操作。 在很多情况下，这很方便。 "
+"例如，网站已转移到新的URL（&U）。 在这种情况下，许多网站管理员会在旧网站上放置一个页面，告诉您它们已经移动，您可能需要更改书签，然后自动移动到新网站。"
+" 但是，这些功能在被滥用时可能会令人困惑或烦人，因此您可能希望禁用它。"
+
+#. Tag: para
+#: index.docbook:80
+#, no-c-format
+msgid ""
+"<guilabel>Enable Access Key activation with &Ctrl; key</guilabel>: Pressing "
+"the &Ctrl; key when viewing web pages activates Access Keys. Unchecking this "
+"box will disable this accessibility feature. &konqueror; needs to be "
+"restarted for this change to take effect."
+msgstr ""
+"<guilabel>使用Ctrl（&C)键启用访问键激活 键</ guilabel>：按Ctrl;（&C)查看网页时的激活访问键。 "
+"取消选中此框将禁用此辅助功能。konqueror;(&k) 需要重新启动才能使此更改生效。"
+
+#. Tag: para
+#: index.docbook:85
+#, no-c-format
+msgid ""
+"<guilabel>Send the DNT header to tell web sites you do not want to be "
+"tracked</guilabel>. Check this box if you want to inform a web site that you "
+"do not want to your web browsing habits tracked."
+msgstr ""
+"<guilabel>发送DNT标题来告诉你不想被跟踪的网站</ guilabel>。 如果您想通知网站您不想跟踪您的网络浏览习惯，请选中此框。"
+
+#. Tag: para
+#: index.docbook:90
+#, no-c-format
+msgid ""
+"<guilabel>Offer to save website passwords</guilabel>. Uncheck this box from "
+"being prompted to save website passwords"
+msgstr "<guilabel>提供保存网站密码</ guilabel>。 取消选中此框不提示保存网站密码"
+

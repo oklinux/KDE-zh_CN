@@ -1,0 +1,220 @@
+#
+# Guo Yunhe <guoyunhebrave@gmail.com>, 2017.
+# yanteng(linuxren.org)<102336919@qq.com> <102336919@qq.com>, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2017-03-08 03:19+0000\n"
+"PO-Revision-Date: 2017-07-06 10:58+0000\n"
+"Last-Translator: yanteng(linuxren.org)<102336919@qq.com> <102336919@qq.com>\n"
+"Language-Team: Chinese <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Tag: title
+#: index.docbook:11 index.docbook:57
+#, no-c-format
+msgid "Bookmarks"
+msgstr "书签"
+
+#. Tag: author
+#: index.docbook:13
+#, no-c-format
+msgid ""
+"<personname><firstname>Xavier</firstname><surname>Vello</surname></"
+"personname> <email>xavier.vello@gmail.com</email>"
+msgstr ""
+"<personname><firstname>Xavier</firstname><surname>Vello</surname></"
+"personname> <email>xavier.vello@gmail.com</email>"
+
+#. Tag: trans_comment
+#: index.docbook:17
+#, no-c-format
+msgid "ROLES_OF_TRANSLATORS"
+msgstr ""
+"<authorgroup><author><firstname>teng</firstname> <surname>yan</surname><"
+"/author></authorgroup>"
+
+#. Tag: date
+#: index.docbook:20
+#, no-c-format
+msgid "2016-11-08"
+msgstr "2016-11-08"
+
+#. Tag: releaseinfo
+#: index.docbook:21
+#, no-c-format
+msgid "Applications 16.12"
+msgstr "Applications 16.12"
+
+#. Tag: keyword
+#: index.docbook:24
+#, no-c-format
+msgid "<keyword>KDE</keyword>"
+msgstr "<keyword>KDE</keyword>"
+
+#. Tag: keyword
+#: index.docbook:25
+#, no-c-format
+msgid "Systemsettings"
+msgstr "系统设置"
+
+#. Tag: keyword
+#: index.docbook:26
+#, no-c-format
+msgid "bookmarks"
+msgstr "书签"
+
+#. Tag: keyword
+#: index.docbook:27
+#, no-c-format
+msgid "<keyword>KIO</keyword>"
+msgstr "<keyword>KIO</keyword>"
+
+#. Tag: title
+#: index.docbook:31
+#, no-c-format
+msgid "Bookmarks home page"
+msgstr "书签主页"
+
+#. Tag: para
+#: index.docbook:32
+#, no-c-format
+msgid "This module lets you configure the bookmarks home page."
+msgstr "此模块允许您配置书签主页。"
+
+#. Tag: para
+#: index.docbook:33
+#, no-c-format
+msgid ""
+"To view the bookmarks home page enter <userinput>bookmarks:/</userinput> in "
+"the location bar."
+msgstr "要查看书签主页请输入 <userinput>书签:/</userinput> 在位置栏。"
+
+#. Tag: para
+#: index.docbook:35
+#, no-c-format
+msgid ""
+"The settings in this module are also accessible by entering "
+"<userinput>bookmarks:/config</userinput> in the location bar."
+msgstr ""
+"此模块的设置也可通过输入进行访问"
+"<userinput>书签:/配置</userinput> 在位置栏中。"
+
+#. Tag: title
+#: index.docbook:38
+#, no-c-format
+msgid "General settings"
+msgstr "一般设置"
+
+#. Tag: guilabel
+#: index.docbook:41
+#, no-c-format
+msgid "Number of columns to show"
+msgstr "要显示的列数"
+
+#. Tag: para
+#: index.docbook:43
+#, no-c-format
+msgid ""
+"Folders are automatically distributed in several columns. The optimal number "
+"of columns depends on the width of the &konqueror; window and the number of "
+"bookmarks you have."
+msgstr "文件夹会自动分配在几列中。最佳列的数量取决于konqueror(&k)的宽度；窗口和你拥有的书签数量。"
+
+#. Tag: guilabel
+#: index.docbook:48
+#, no-c-format
+msgid "Show folder backgrounds"
+msgstr "显示文件夹来历"
+
+#. Tag: para
+#: index.docbook:50
+#, no-c-format
+msgid "Disable it on slow system to disable background images."
+msgstr "在卡顿的系统上禁用它以禁用背景图像。"
+
+#. Tag: guilabel
+#: index.docbook:60
+#, no-c-format
+msgid "Show bookmarks without folder"
+msgstr "显示没有文件夹的书签"
+
+#. Tag: para
+#: index.docbook:62
+#, no-c-format
+msgid ""
+"If this option is unchecked, bookmarks at the root of the hierarchy (not in "
+"a folder) are not displayed. If checked, they are gathered in a \"root\" "
+"folder."
+msgstr "如果这个选项未被选中，则不会显示在根目录层次（不再文件夹中）的书签，他们将会被汇总在“root”文件夹中。"
+
+#. Tag: guilabel
+#: index.docbook:67
+#, no-c-format
+msgid "Flatten bookmarks tree"
+msgstr "展开书签树"
+
+#. Tag: para
+#: index.docbook:69
+#, no-c-format
+msgid ""
+"Sub-folders are shown within their parent by default. If you activate this "
+"option, sub-folders are displayed on their own. It looks less nice but it "
+"may help if you have a very big folder you want to spread in two columns."
+msgstr ""
+"默认情况下，子文件夹显示在其父级中。如果激活此选项，子文件夹就会自动显示。虽然它有点难看，但是如果你有一个非常大的想要扩展两列的文件夹，它将会对您有很大的帮"
+"助。"
+
+#. Tag: guilabel
+#: index.docbook:74
+#, no-c-format
+msgid "Show system places"
+msgstr "显示系统位置"
+
+#. Tag: para
+#: index.docbook:76
+#, no-c-format
+msgid ""
+"Show a box with common places (Home, Network, ...). Useful if you use "
+"&konqueror; as a file manager."
+msgstr "显示一个公用的地方（家庭，网络，……）的框内。如果您使用konquero;(&k)作为文件管理器，这将会非常有用。"
+
+#. Tag: title
+#: index.docbook:83
+#, no-c-format
+msgid "Pixmap cache"
+msgstr "位图缓存"
+
+#. Tag: guilabel
+#: index.docbook:86
+#, no-c-format
+msgid "Disk cache size"
+msgstr "磁盘缓存大小"
+
+#. Tag: para
+#: index.docbook:88
+#, no-c-format
+msgid "Specify how much disk space is used to cache the pixmaps."
+msgstr "指定用于缓存位图的磁盘空间容量。"
+
+#. Tag: guilabel
+#: index.docbook:93
+#, no-c-format
+msgid "Clear Cache"
+msgstr "清除缓存"
+
+#. Tag: para
+#: index.docbook:95
+#, no-c-format
+msgid ""
+"Remove all cached images. This may be necessary if some favicons become "
+"corrupt and don't refresh automatically."
+msgstr "删除所有缓存的图像。如果一些网站图标变得面目全非并且不会自动刷新，这可能是必要的。"
+
+

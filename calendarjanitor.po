@@ -1,0 +1,360 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Weng Xuetian <wengxt@gmail.com>, 2015.
+# yanteng(linuxren.org)<102336919@qq.com> <102336919@qq.com>, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2016-11-19 20:17+0100\n"
+"PO-Revision-Date: 2017-07-06 09:30+0000\n"
+"Last-Translator: yanteng(linuxren.org)<102336919@qq.com> <102336919@qq.com>\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: backuper.cpp:50
+#, kde-format
+msgid "Backup was successful. %1 incidence was saved."
+msgid_plural "Backup was successful. %1 incidences were saved."
+msgstr[0] "备份已成功。%1 个事件已保存。"
+
+#: backuper.cpp:68
+#, kde-format
+msgid "File is empty."
+msgstr "文件为空。"
+
+#: backuper.cpp:73
+#, kde-format
+msgid "A backup is already in progress."
+msgstr "备份已在进行中。"
+
+#: backuper.cpp:76
+#, kde-format
+msgid "Backing up your calendar data..."
+msgstr "正在备份日历数据..."
+
+#: backuper.cpp:106
+#, kde-format
+msgid "No data to backup."
+msgstr "没有需要备份的数据。"
+
+#: backuper.cpp:117 calendarjanitor.cpp:189
+#, kde-format
+msgid "Processing collection %1 (id=%2)..."
+msgstr "正在处理收藏 %1（id=%2）..."
+
+#: backuper.cpp:147
+#, kde-format
+msgid "An error occurred"
+msgstr "发生了一个错误"
+
+#: calendarjanitor.cpp:55
+#, kde-format
+msgid ""
+"Bailing out. Fix your akonadi setup first. These kind of errors should not "
+"happen."
+msgstr "帮助。请您先修复akonad设置。这是种不应该发生的错误。"
+
+#: calendarjanitor.cpp:103
+#, kde-format
+msgid "Error while fetching collections"
+msgstr "获取收藏时出错"
+
+#: calendarjanitor.cpp:116
+#, kde-format
+msgid "There are no collections to process."
+msgstr "没有要处理的收藏。"
+
+#: calendarjanitor.cpp:144
+#, kde-format
+msgid "Error while modifying incidence: %1"
+msgstr "修改事件时出错：%1"
+
+#: calendarjanitor.cpp:149
+#, kde-format
+msgid "Fixed item %1"
+msgstr "已修复项目 %1"
+
+#: calendarjanitor.cpp:163
+#, kde-format
+msgid "Error while deleting incidence: %1"
+msgstr "删除事件时出错：%1"
+
+#: calendarjanitor.cpp:167
+#, kde-format
+msgid "Deleted item %1"
+msgstr "已删除项 %1"
+
+#: calendarjanitor.cpp:193
+#, kde-format
+msgid "Collection is read only, disabling fix mode."
+msgstr "收藏只读，禁用修复模式。"
+
+#: calendarjanitor.cpp:195
+#, kde-format
+msgid "Collection is read only, skipping it."
+msgstr "收藏只读，跳过它。"
+
+#: calendarjanitor.cpp:203
+#, kde-format
+msgid "Collection is empty, ignoring it."
+msgstr "收藏为空，忽略它。"
+
+#: calendarjanitor.cpp:271
+#, kde-format
+msgid "Checking for incidences with empty summary and description..."
+msgstr "检查空摘要和空描述的发生率……"
+
+#: calendarjanitor.cpp:287
+#, kde-format
+msgid "Checking for incidences with empty UID..."
+msgstr "使用空UID检查发生率……"
+
+#: calendarjanitor.cpp:306
+#, kde-format
+msgid "Checking for events with invalid DTSTART..."
+msgstr "使用无效的DTSTART检查事件……"
+
+#: calendarjanitor.cpp:343
+#, kde-format
+msgid "Checking for recurring to-dos with invalid DTSTART..."
+msgstr "用无效的DTSTART检查重复操作……"
+
+#: calendarjanitor.cpp:379
+#, kde-format
+msgid "Checking for journals with invalid DTSTART..."
+msgstr "使用无效的DTSTART检查期刊……"
+
+#: calendarjanitor.cpp:400
+#, kde-format
+msgid "Checking for orphans..."
+msgstr "正在检查孤立项..."
+
+#: calendarjanitor.cpp:406
+#, kde-format
+msgid "The following incidences are children of nonexistent parents"
+msgstr "以下事件是无父项的子项"
+
+#: calendarjanitor.cpp:415
+#, kde-format
+msgid "In fix mode these children will be unparented."
+msgstr "在修复模式下这些子项被孤立。"
+
+#: calendarjanitor.cpp:415
+#, kde-format
+msgid "Children were successfully unparented."
+msgstr "子项被成功孤立。"
+
+#: calendarjanitor.cpp:420
+#, kde-format
+msgid "Checking for duplicate UIDs..."
+msgstr "正在检查重复的 UID..."
+
+#: calendarjanitor.cpp:477
+#, kde-format
+msgid "Gathering statistics..."
+msgstr "正在收集统计信息..."
+
+#: calendarjanitor.cpp:514
+#, kde-format
+msgid "Events"
+msgstr "事件"
+
+#: calendarjanitor.cpp:515
+#, kde-format
+msgid "Todos"
+msgstr "待办事宜"
+
+#: calendarjanitor.cpp:516
+#, kde-format
+msgid "Journals"
+msgstr "日记"
+
+#: calendarjanitor.cpp:517
+#, kde-format
+msgid "Passed events and to-dos (>365 days)"
+msgstr "通过的事件和待办事宜(>365 天)"
+
+#: calendarjanitor.cpp:518
+#, kde-format
+msgid "Old incidences with alarms"
+msgstr "设置闹钟的旧事件"
+
+#: calendarjanitor.cpp:519
+#, kde-format
+msgid "Inline attachments"
+msgstr "内联附件"
+
+#: calendarjanitor.cpp:520
+#, kde-format
+msgid "Items with empty remote id [!!]"
+msgstr "空的远程id[!!]"
+
+#: calendarjanitor.cpp:523
+#, kde-format
+msgid "Total size of inline attachments (bytes)"
+msgstr "内联附件的总大小（字节）"
+
+#: calendarjanitor.cpp:525
+#, kde-format
+msgid "Total size of inline attachments (KB)"
+msgstr "内联附件的总大小（KB）"
+
+#: calendarjanitor.cpp:537
+#, kde-format
+msgid ""
+"Checking for RECURRING-ID incidences with nonexistant master incidence..."
+msgstr "用不存在的主事件检查RECURRING-ID的发生率……"
+
+#: calendarjanitor.cpp:578
+#, kde-format
+msgid "In fix mode the RECURRING-ID property will be unset and UID changed."
+msgstr "在修复模式下，RECURRING-ID的属性将被取消设置并且更改UID。"
+
+#: calendarjanitor.cpp:579
+#, kde-format
+msgid "Recurrence cleared."
+msgstr "重现已清除。"
+
+#: calendarjanitor.cpp:584
+#, kde-format
+msgid "Deleting alarms older than 365 days..."
+msgstr "正在删除老于 365 天的提醒..."
+
+#: calendarjanitor.cpp:602 calendarjanitor.cpp:616
+#, kde-format
+msgid "invalid"
+msgstr "无效"
+
+#: calendarjanitor.cpp:619
+#, kde-format
+msgid "recurrent"
+msgstr "重新发生"
+
+#: calendarjanitor.cpp:637
+#, kde-format
+msgid "Found buggy incidence:"
+msgstr "已找到有问题的事件："
+
+#: calendarjanitor.cpp:638
+#, kde-format
+msgid "id=%1; summary=\"%2\""
+msgstr "id=%1；摘要=\"%2\""
+
+#: main.cpp:59
+#, kde-format
+msgid "Error while parsing %1"
+msgstr "解析 %1 出错"
+
+#: main.cpp:60
+#, fuzzy, kde-format
+#| msgid "Example usage %1"
+msgid "Example usage: %1"
+msgstr "使用示例 %1"
+
+#: main.cpp:83
+#, kde-format
+msgid "(c) 2013, Sérgio Martins"
+msgstr "(c) 2013, Sérgio Martins"
+
+#: main.cpp:87
+#, kde-format
+msgid "Sérgio Martins"
+msgstr "Sérgio Martins"
+
+#: main.cpp:87
+#, kde-format
+msgid "Maintainer"
+msgstr "维护者"
+
+#: main.cpp:92
+#, kde-format
+msgid "List of collection ids to scan"
+msgstr "要扫描的收藏 id 列表"
+
+#: main.cpp:93
+#, kde-format
+msgid "Fix broken incidences"
+msgstr "修复损坏的事件"
+
+#: main.cpp:94
+#, kde-format
+msgid "Backup your calendar"
+msgstr "备份您的日历"
+
+#: main.cpp:95
+#, kde-format
+msgid "Delete alarms older than 365 days"
+msgstr "删除老于 365 天的提醒"
+
+#: main.cpp:97
+#, kde-format
+msgid ""
+"\n"
+"Examples:\n"
+"\n"
+"Scan all collections:\n"
+"$ calendarjanitor\n"
+"\n"
+"Scan and fix all collections:\n"
+"$ calendarjanitor --fix\n"
+"\n"
+"Scan and fix some collections:\n"
+"$ calendarjanitor --collections 10,20 --fix\n"
+"\n"
+"Backup all collections:\n"
+"$ calendarjanitor --backup backup.ics\n"
+"\n"
+"Backup some collections:\n"
+"$ calendarjanitor --backup backup.ics --collections 10,20\n"
+"\n"
+"Strip alarms from incidences older than 365 days:\n"
+"$ calendarjanitor --strip-old-alarms --collections 10,20"
+msgstr ""
+"\n"
+"例如:\n"
+"\n"
+"扫描所有集和:\n"
+"$ calendarjanitor\n"
+"\n"
+"扫描并且修复所有集和:\n"
+"$ calendarjanitor --修复\n"
+"\n"
+"扫描并且修复一些集和:\n"
+
+#: main.cpp:140
+#, kde-format
+msgid "--fix is incompatible with --backup"
+msgstr "--fix 和 --backup 不兼容"
+
+#: main.cpp:145
+#, kde-format
+msgid "--strip-old-alarms is incompatible with --backup"
+msgstr "--strip-old-alarms 和 --backup 不兼容"
+
+#: main.cpp:150
+#, kde-format
+msgid "--strip-old-alarms is incompatible with --fix"
+msgstr "--strip-old-alarms 和 --fix 不兼容"
+
+#: main.cpp:163
+#, kde-format
+msgid "Running in fix mode."
+msgstr "正在用修复模式运行。"
+
+#: main.cpp:167
+#, kde-format
+msgid "Please specify a output file."
+msgstr "请指定输出文件。"
+
+#: main.cpp:172
+#, kde-format
+msgid "Running in scan only mode."
+msgstr "正在用扫描模式运行。"
+

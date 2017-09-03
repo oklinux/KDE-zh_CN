@@ -1,0 +1,168 @@
+#
+# Guo Yunhe <guoyunhebrave@gmail.com>, 2017.
+# yanteng(linuxren.org)<102336919@qq.com> <102336919@qq.com>, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2017-01-24 09:30+0000\n"
+"PO-Revision-Date: 2017-08-30 17:57+0000\n"
+"Last-Translator: yanteng(linuxren.org)<102336919@qq.com> <102336919@qq.com>\n"
+"Language-Team: Chinese <kde-i18n-doc@kde.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Tag: title
+#: man-kfind.1.docbook:8
+#, no-c-format
+msgid "kfind User's Manual"
+msgstr "kfind 用户手册"
+
+#. Tag: author
+#: man-kfind.1.docbook:9
+#, no-c-format
+msgid "&Lauri.Watts; &Lauri.Watts.mail;"
+msgstr "Lauri.Watts;(&L) Lauri.Watts.mail;(&L)"
+
+#. Tag: date
+#: man-kfind.1.docbook:10
+#, no-c-format
+msgid "2016-11-05"
+msgstr "2016-11-05"
+
+#. Tag: releaseinfo
+#: man-kfind.1.docbook:11
+#, no-c-format
+msgid "Applications 16.12"
+msgstr "Applications 16.12"
+
+#. Tag: productname
+#: man-kfind.1.docbook:12
+#, no-c-format
+msgid "KDE Applications"
+msgstr "KDE软件"
+
+#. Tag: manvolnum
+#: man-kfind.1.docbook:17
+#, no-c-format
+msgid "<manvolnum>1</manvolnum>"
+msgstr "1"
+
+#. Tag: refpurpose
+#: man-kfind.1.docbook:22
+#, no-c-format
+msgid "file find utility by &kde;"
+msgstr "kde（&k)的文件查找工具；"
+
+#. Tag: cmdsynopsis
+#: man-kfind.1.docbook:26
+#, no-c-format
+msgid ""
+"<command>kfind</command> <group choice=\"opt\"><option>searchpath</option></"
+"group> <arg choice=\"opt\">options</arg>"
+msgstr ""
+"<command>查找</command> <group choice=\"opt\"><option>查找路径</option></"
+"group> <arg choice=\"opt\">选项</arg>"
+
+#. Tag: title
+#: man-kfind.1.docbook:34
+#, no-c-format
+msgid "Description"
+msgstr "说明书"
+
+#. Tag: para
+#: man-kfind.1.docbook:35
+#, no-c-format
+msgid ""
+"The Find Files tool is a useful method of searching for specific files on "
+"your computer, or for searching for files that match a pattern. An example "
+"of this could include searching for files of a particular type or with "
+"certain letters in the filename, or that contain a certain piece of text in "
+"their contents."
+msgstr ""
+"文件查找工具是一种在计算机上搜索特定文件或搜索与类型匹配的文件的有效方法。 一个查找结果可能包括特定类型的文件或文件名中的某些字母，或者在其内容中包含某段文"
+"本。"
+
+#. Tag: para
+#: man-kfind.1.docbook:40
+#, no-c-format
+msgid ""
+"&kfind; is a graphical tool, and not normally run from the command line."
+msgstr "kfind;（&k）是一个图形工具，通常不会从命令行运行。"
+
+#. Tag: title
+#: man-kfind.1.docbook:46
+#, no-c-format
+msgid "Options"
+msgstr "选项"
+
+#. Tag: option
+#: man-kfind.1.docbook:49
+#, no-c-format
+msgid "searchpath"
+msgstr "查找路径"
+
+#. Tag: para
+#: man-kfind.1.docbook:50
+#, no-c-format
+msgid ""
+"You may optionally supply a path to prefill the dialog where to start the "
+"search."
+msgstr "您可以考虑提供一个路径来填写开始搜索的对话框。"
+
+#. Tag: title
+#: man-kfind.1.docbook:59
+#, no-c-format
+msgid "See Also"
+msgstr "另请参考"
+
+#. Tag: member
+#: man-kfind.1.docbook:61
+#, no-c-format
+msgid ""
+"More detailed user documentation is available from <ulink url=\"help:/kfind"
+"\">help:/kfind</ulink> (either enter this <acronym>URL</acronym> into "
+"&konqueror;, or run <userinput><command>khelpcenter</command> "
+"<parameter>help:/kfind</parameter></userinput>)."
+msgstr ""
+"更详细的用户手册可从 <ulink url=\"help:/kfind"
+"\">help:/kfind</ulink> (请输入这个<acronym>URL</acronym> into "
+"&konqueror;, 或者运行 <userinput><command>帮助中心</command> "
+"<parameter>帮助:/查找</parameter></userinput>)."
+
+#. Tag: member
+#: man-kfind.1.docbook:66
+#, no-c-format
+msgid "kf5options(7)"
+msgstr "kf5options(7)"
+
+#. Tag: member
+#: man-kfind.1.docbook:67
+#, no-c-format
+msgid "qt5options(7)"
+msgstr "qt5options(7)"
+
+#. Tag: title
+#: man-kfind.1.docbook:72
+#, no-c-format
+msgid "Authors"
+msgstr "作者"
+
+#. Tag: para
+#: man-kfind.1.docbook:73
+#, no-c-format
+msgid ""
+"A list of contributors is available in the complete user manual available in "
+"khelpcenter."
+msgstr "khelpcenter提供的完整用户手册中附有了一份贡献者列表。"
+
+#. Tag: para
+#: man-kfind.1.docbook:75
+#, no-c-format
+msgid "This documentation was prepared by &Lauri.Watts; &Lauri.Watts.mail;"
+msgstr "本手册的作者是Lauri.Watts;(&L) Lauri.Watts.mail;(&L)"
+
